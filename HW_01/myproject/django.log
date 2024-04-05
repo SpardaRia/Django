@@ -1,0 +1,73 @@
+Watching for file changes with StatReloader
+Page "main" is open
+"GET / HTTP/1.1" 200 170
+Page "main" is open
+"GET / HTTP/1.1" 200 170
+Page "about_me" is open
+"GET /about/ HTTP/1.1" 200 82
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Page "about_me" is open
+"GET /about/ HTTP/1.1" 200 82
+Page "main" is open
+"GET / HTTP/1.1" 200 1347
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Page "main" is open
+"GET / HTTP/1.1" 200 1303
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Page "main" is open
+"GET / HTTP/1.1" 200 1303
+Page "main" is open
+"GET / HTTP/1.1" 200 1303
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Page "main" is open
+"GET / HTTP/1.1" 200 1248
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Page "main" is open
+"GET / HTTP/1.1" 200 1238
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Page "main" is open
+"GET / HTTP/1.1" 200 1029
+Page "main" is open
+"GET / HTTP/1.1" 200 1029
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Page "main" is open
+"GET / HTTP/1.1" 200 1053
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Page "main" is open
+"GET / HTTP/1.1" 200 999
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Page "main" is open
+"GET / HTTP/1.1" 200 957
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Page "main" is open
+"GET / HTTP/1.1" 200 955
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Page "main" is open
+"GET / HTTP/1.1" 200 372
+Page "about_me" is open
+"GET /about/ HTTP/1.1" 200 1814
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Page "about_me" is open
+"GET /about/ HTTP/1.1" 200 1624
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
+Page "about_me" is open
+"GET /about/ HTTP/1.1" 200 608
+D:\School\Django\HW_01\myproject\home_app\views.py changed, reloading.
+Watching for file changes with StatReloader
